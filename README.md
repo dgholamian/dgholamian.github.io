@@ -15,7 +15,7 @@
     <td>The University of Western Ontario, Canada (2021-Present)</td>
   </tr>
   <tr>
-    <td>Master of Engineering Science in Computer Engineering</td>
+    <td>Master of Engineering Science in Software Engineering</td>
     <td>The University of Western Ontario, Canada (2019-2021)</td>
   </tr>
   <tr>
@@ -32,11 +32,18 @@
 
 ## Research and Publications
 
-I have contributed to various research projects and publications, particularly in the areas of deep learning, human activity recognition, and customer segmentation. Some of my key publications include:
+I have made contributions to multiple research projects and publications, primarily focusing on machine learning, deep learning, and federated learning, as they intersect with natural language processing, customer relationship management, and human activity recognition. Several of my contributions include:
 
 - "Personalized Models for Human Activity Recognition with Wearable Sensors: Deep Neural Networks and Signal Processing" (Springer Applied Intelligence)
 - "Deep Neural Networks for Human Activity Recognition with Wearable Sensors: Leave-one-subject-out Cross-validation for Model Selection" (IEEE Access)
-- and more.
+- "A Case Study of Fintech Industry: A Two-Stage Clustering Analysis for Customer Segmentation in the B2B Setting" (Journal of Business-to-Business Marketing)
+- "Investigating the performance of technical indicators in electrical industry in Tehran's Stock Exchange using hybrid methods of SRA, PCA and Neural Networks" (Conference on Thermal Power Plants)
+- "Gene selection from microarray expression data: A Multi-objective PSO with adaptive K-nearest neighborhood" (arXiv)
+- "Customer Churn Prediction Using a New Criterion and Data Mining; A Case Study of Iranian Banking Industry" (International Conference on Industrial Engineering and Operations Management)
+- "Customer Churn Prediction Using a Meta-Classifier Approach; A Case Study of Iranian Banking Industry" (International Conference on Industrial Engineering and Operations Management)
+- "Productivity change and its determinants: Application of the Malmquist index with bootstrapping in Iranian steam power plants" (Utilities Policy)
+- "Dynamic changes in CO2 emission performance of different types of Iranian fossil-fuel power plants" (Energy Economics)
+- "Assessing productivity changes using the bootstrapped Malmquist index: the case study of the Iranian construction industry" (International Conference on Industrial Engineering and Operations Management)
 
 ## Professional Experience
 
