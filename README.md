@@ -34,7 +34,7 @@
 
 I have made contributions to multiple research projects and publications, primarily focusing on machine learning, deep learning, and federated learning, as they intersect with natural language processing, customer relationship management, and human activity recognition. Several of my contributions include:
 
-- "Personalized Models for Human Activity Recognition with Wearable Sensors: Deep Neural Networks and Signal Processing" (Springer Applied Intelligence)
+- "Personalized Models for Human Activity Recognition with Wearable Sensors: Deep Neural Networks and Signal Processing" (Springer Applied Intelligence) [Link](https://link.springer.com/article/10.1007/s10489-022-03832-6)
 - "Deep Neural Networks for Human Activity Recognition with Wearable Sensors: Leave-one-subject-out Cross-validation for Model Selection" (IEEE Access)
 - "A Case Study of Fintech Industry: A Two-Stage Clustering Analysis for Customer Segmentation in the B2B Setting" (Journal of Business-to-Business Marketing)
 - "Investigating the performance of technical indicators in electrical industry in Tehran's Stock Exchange using hybrid methods of SRA, PCA and Neural Networks" (Conference on Thermal Power Plants)
