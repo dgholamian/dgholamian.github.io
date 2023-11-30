@@ -1,28 +1,14 @@
-# Davoud Gholamiangonabadi
+# Data Scientist
 
-## About Me
+#### Technical Skills: Python, SQL, R, Matlab
 
-Welcome to my GitHub page! I'm Davoud, currently a Ph.D. student in Software Engineering at the Department of Electrical and Computer Engineering, The University of Western Ontario, Canada. My research interests lie at the intersection of Natural Language Processing, Speech Recognition, Healthcare Systems, and Image Recognition. I am passionate about applying deep learning and computational intelligence methods to solve complex problems in these domains.
 
 ## Education
 
-- **Ph.D. in Software Engineering** (2021-Present)
-  - The University of Western Ontario, Canada
-  - Advisor: Dr. Katarina Grolinger
-
-- **Master of Engineering Science in Computer Engineering** (2019-2021)
-  - The University of Western Ontario, Canada
-  - Thesis: "Deep Neural Networks for Human Activity Recognition with Wearable Sensors"
-  - Total GPA: 93/100
-
-- **Master of Science in Industrial Engineering** (2012-2014)
-  - Amirkabir University of Technology (Tehran Polytechnic), Iran
-  - Thesis: "Predicting Customer Churn in the Banking Industry using Artificial Neural Networks"
-  - Total GPA: 18.09/20
-
-- **Bachelor of Science in Applied Mathematics** (2007-2012)
-  - Ferdowsi University, Mashhad, Iran
-  - Major: Operations Research
+- **Ph.D. in Software Engineering** | The University of Western Ontario, Canada (2021-Present)
+- **Master of Engineering Science in Computer Engineering** | The University of Western Ontario, Canada (2019-2021)
+- **Master of Science in Industrial Engineering** | Amirkabir University of Technology (Tehran Polytechnic), Iran (2012-2014)
+- **Bachelor of Science in Applied Mathematics** | Ferdowsi University, Mashhad, Iran (2007-2012)
 
 ## Research and Publications
 
