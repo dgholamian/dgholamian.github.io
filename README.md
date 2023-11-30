@@ -10,6 +10,31 @@
 - **Master of Science in Industrial Engineering** | Amirkabir University of Technology (Tehran Polytechnic), Iran (2012-2014)
 - **Bachelor of Science in Applied Mathematics** | Ferdowsi University, Mashhad, Iran (2007-2012)
 
+<table>
+  <tr>
+    <th width="50%">Degree</th>
+    <th width="50%">Institution & Year</th>
+  </tr>
+  <tr>
+    <td>Ph.D. in Software Engineering</td>
+    <td>The University of Western Ontario, Canada (2021-Present)</td>
+  </tr>
+  <tr>
+    <td>Master of Engineering Science in Computer Engineering</td>
+    <td>The University of Western Ontario, Canada (2019-2021)</td>
+  </tr>
+  <tr>
+    <td>Master of Science in Industrial Engineering</td>
+    <td>Amirkabir University of Technology (Tehran Polytechnic), Iran (2012-2014)</td>
+  </tr>
+  <tr>
+    <td>Bachelor of Science in Applied Mathematics</td>
+    <td>Ferdowsi University, Mashhad, Iran (2007-2012)</td>
+  </tr>
+</table>
+
+
+
 ## Research and Publications
 
 I have contributed to various research projects and publications, particularly in the areas of deep learning, human activity recognition, and customer segmentation. Some of my key publications include:
