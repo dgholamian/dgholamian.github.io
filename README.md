@@ -5,11 +5,6 @@
 
 ## Education
 
-- **Ph.D. in Software Engineering** | The University of Western Ontario, Canada (2021-Present)
-- **Master of Engineering Science in Computer Engineering** | The University of Western Ontario, Canada (2019-2021)
-- **Master of Science in Industrial Engineering** | Amirkabir University of Technology (Tehran Polytechnic), Iran (2012-2014)
-- **Bachelor of Science in Applied Mathematics** | Ferdowsi University, Mashhad, Iran (2007-2012)
-
 <table>
   <tr>
     <th width="50%">Degree</th>
