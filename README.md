@@ -11,7 +11,7 @@
     <th width="50%">Institution & Year</th>
   </tr>
   <tr>
-    <td>**Ph.D. in Software Engineering**</td>
+    <td>Ph.D. in Software Engineering</td>
     <td>The University of Western Ontario, Canada (2021-Present)</td>
   </tr>
   <tr>
