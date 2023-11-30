@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Matlab
+#### Technical Skills: Python, SQL
 
 
 ## Education
@@ -29,28 +29,43 @@
 </table>
 
 
-
-## Research and Publications
-
-I have made contributions to multiple research projects and publications, primarily focusing on machine learning, deep learning, and federated learning, as they intersect with natural language processing, customer relationship management, and human activity recognition. Several of my contributions include:
-
-- "Personalized Models for Human Activity Recognition with Wearable Sensors: Deep Neural Networks and Signal Processing" (Springer Applied Intelligence) [Link](https://link.springer.com/article/10.1007/s10489-022-03832-6)
-- "Deep Neural Networks for Human Activity Recognition with Wearable Sensors: Leave-one-subject-out Cross-validation for Model Selection" (IEEE Access)
-- "A Case Study of Fintech Industry: A Two-Stage Clustering Analysis for Customer Segmentation in the B2B Setting" (Journal of Business-to-Business Marketing)
-- "Investigating the performance of technical indicators in electrical industry in Tehran's Stock Exchange using hybrid methods of SRA, PCA and Neural Networks" (Conference on Thermal Power Plants)
-- "Gene selection from microarray expression data: A Multi-objective PSO with adaptive K-nearest neighborhood" (arXiv)
-- "Customer Churn Prediction Using a New Criterion and Data Mining; A Case Study of Iranian Banking Industry" (International Conference on Industrial Engineering and Operations Management)
-- "Customer Churn Prediction Using a Meta-Classifier Approach; A Case Study of Iranian Banking Industry" (International Conference on Industrial Engineering and Operations Management)
-- "Productivity change and its determinants: Application of the Malmquist index with bootstrapping in Iranian steam power plants" (Utilities Policy)
-- "Dynamic changes in CO2 emission performance of different types of Iranian fossil-fuel power plants" (Energy Economics)
-- "Assessing productivity changes using the bootstrapped Malmquist index: the case study of the Iranian construction industry" (International Conference on Industrial Engineering and Operations Management)
-
 ## Professional Experience
 
 - **Research Assistant**, Western University, Canada (2019-Present)
 - **Teaching Assistant** for courses like Software Engineering, Software Design, and JavaScript Programming (2019-2021)
 - **Data Analyst**, Royan Institute, Tehran, Iran (2017)
 - **Data Analyst**, Sina Bank, Tehran, Iran (2016-2017)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Research and Publications
+
+I have made contributions to multiple research projects and publications, primarily focusing on machine learning, deep learning, and federated learning, as they intersect with natural language processing, customer relationship management, and human activity recognition. Several of my contributions include:
+
+- "Personalized Models for Human Activity Recognition with Wearable Sensors: Deep Neural Networks and Signal Processing" (Springer Applied Intelligence) [Link](https://link.springer.com/article/10.1007/s10489-022-03832-6)
+- "Deep Neural Networks for Human Activity Recognition with Wearable Sensors: Leave-one-subject-out Cross-validation for Model Selection" (IEEE Access) [Link](https://ieeexplore.ieee.org/abstract/document/9144538)
+- "A Case Study of Fintech Industry: A Two-Stage Clustering Analysis for Customer Segmentation in the B2B Setting" (Journal of Business-to-Business Marketing) [Link](https://www.tandfonline.com/doi/abs/10.1080/1051712X.2019.1603420)
+- "Investigating the performance of technical indicators in electrical industry in Tehran's Stock Exchange using hybrid methods of SRA, PCA and Neural Networks" (Conference on Thermal Power Plants) [Link](https://ieeexplore.ieee.org/abstract/document/7040698)
+- "Gene selection from microarray expression data: A Multi-objective PSO with adaptive K-nearest neighborhood" (arXiv) [Link](https://arxiv.org/abs/2205.15020)
+- "Customer Churn Prediction Using a New Criterion and Data Mining; A Case Study of Iranian Banking Industry" (International Conference on Industrial Engineering and Operations Management) [Link](https://www.ieomsociety.org/ieom2019/papers/33.pdf)
+- "Customer Churn Prediction Using a Meta-Classifier Approach; A Case Study of Iranian Banking Industry" (International Conference on Industrial Engineering and Operations Management) [Link](https://www.researchgate.net/profile/Davoud-Gholamiangonabadi/publication/335474839_Customer_Churn_Prediction_Using_a_Meta-Classifier_Approach_A_Case_Study_of_Iranian_Banking_Industry/links/5d682f99a6fdccadeae42d25/Customer-Churn-Prediction-Using-a-Meta-Classifier-Approach-A-Case-Study-of-Iranian-Banking-Industry.pdf)
+- "Productivity change and its determinants: Application of the Malmquist index with bootstrapping in Iranian steam power plants" (Utilities Policy) [Link](https://www.sciencedirect.com/science/article/pii/S0957178714000757)
+- "Dynamic changes in CO2 emission performance of different types of Iranian fossil-fuel power plants" (Energy Economics) [Link](https://www.sciencedirect.com/science/article/pii/S0140988315002819)
+- "Assessing productivity changes using the bootstrapped Malmquist index: the case study of the Iranian construction industry" (International Conference on Industrial Engineering and Operations Management) [Link](https://www.ieomsociety.org/ieom2019/papers/99.pdf)
+
 
 ## Skills
 
@@ -61,6 +76,6 @@ I have made contributions to multiple research projects and publications, primar
 ## Contact
 
 - 📧 Email: [dgholamian@gmail.com](mailto:dgholamian@gmail.com)
-- 🌐 [LinkedIn Profile](#)
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/davoud-gholamiangonabadi/)
 
 *Feel free to explore my repositories and connect with me for collaborations or discussions in my fields of interest.*
