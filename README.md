@@ -31,7 +31,13 @@
 
 ## Professional Experience
 
-- **Research Assistant**, Western University, Canada (2019-Present)
+**Research Assistant @ Western University, Canada (2019-Present)**
+- Established a Clustered Federated Learning approach with CNNs to address the challenges of non-IID data in sentiment analysis applications.
+- Formulated a Federated Learning model using LSTM and Transformer networks to assess imbalanced dataset impacts on sentiment analysis training.
+- Developed a transfer learning method using CNNs and wavelet decomposition for human activity recognition, refining accuracy by re-training for individuals.
+- Introduced a personalized CNN-based approach with signal processing for sensor data-driven human activity recognition, enhancing individual-specific accuracy.
+- Created CNN and FFNN models using leave-one-subject-out validation for accurate human activity recognition from sensor data for new individuals.
+   
 - **Teaching Assistant** for courses like Software Engineering, Software Design, and JavaScript Programming (2019-2021)
 - **Data Analyst**, Royan Institute, Tehran, Iran (2017)
 - **Data Analyst**, Sina Bank, Tehran, Iran (2016-2017)
