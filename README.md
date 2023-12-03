@@ -81,15 +81,10 @@ I have made contributions to multiple research projects and publications, primar
 - "Assessing productivity changes using the bootstrapped Malmquist index: the case study of the Iranian construction industry" (International Conference on Industrial Engineering and Operations Management) [Link](https://www.ieomsociety.org/ieom2019/papers/99.pdf)
 
 
-## Skills
-
-- **Languages**: English (Professional working proficiency), Persian (Native)
-- **Programming**: Python, MATLAB, R, JavaScript, C++, C
-- **Software**: SPSS, SAS, Unity, MS Project, Latex, and more.
-
 ## Contact
 
 - 📧 Email: [dgholamian@gmail.com](mailto:dgholamian@gmail.com)
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/davoud-gholamiangonabadi/)
+- 🎓 [Google Scholar Account](https://scholar.google.ca/citations?user=EyR-gXIAAAAJ&hl=en)
 
 *Feel free to explore my repositories and connect with me for collaborations or discussions in my fields of interest.*
