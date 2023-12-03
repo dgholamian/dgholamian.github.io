@@ -31,31 +31,39 @@
 
 ## Professional Experience
 
-**Research Assistant @ Western University, Canada (2019-Present)**
+**Research Assistant @ Western University (2019-Present)**
 - Established a Clustered Federated Learning approach with CNNs to address the challenges of non-IID data in sentiment analysis applications.
 - Formulated a Federated Learning model using LSTM and Transformer networks to assess imbalanced dataset impacts on sentiment analysis training.
 - Developed a transfer learning method using CNNs and wavelet decomposition for human activity recognition, refining accuracy by re-training for individuals.
 - Introduced a personalized CNN-based approach with signal processing for sensor data-driven human activity recognition, enhancing individual-specific accuracy.
 - Created CNN and FFNN models using leave-one-subject-out validation for accurate human activity recognition from sensor data for new individuals.
-   
-- **Teaching Assistant** for courses like Software Engineering, Software Design, and JavaScript Programming (2019-2021)
-- **Data Analyst**, Royan Institute, Tehran, Iran (2017)
-- **Data Analyst**, Sina Bank, Tehran, Iran (2016-2017)
 
 
+**Software DeveloperSoftware Developer @ Algobot (Cryptocurrency software) (Apr-Aug 2022)**
+- Developed a scanner for the Cryptocurrency market to filter cryptos with high momentum
+- Developed a bot to draw static and dynamic supports and resistances automatically and predicting future prices
+- Examined various strategies with backtests and real-time tests to find a good trading strategy
 
+**Data ScientistData Scientist @ Xlscout (Sep-Dec 2021)**
+- Found U.S. patents’ solutions and related sections in each patent using machine learning techniques.
+- Summarized the main idea for the solution of each patent using extractive and abstractive models such as Bert, Pegasus, and so on.
 
+**Senior Data Analyst @ Royan Institute (Jan-Jun 2017)**
+- Applied different classification methods such as C4.5 decision tree, logistic regression, radial basis function neural networks, and feed-forward neural networks to predict do we have to freeze the umbilical cord blood stem cells or not
+- Predicted quality of cord blood for newborns using ensemble supervised and unsupervised machine learning techniques and saving $1 Million for the Royal Institute using our machine learning approach
 
+**Senior Data Analyst @ Sina Bank (Nov 2016 - Feb 2017)**
+- Extracted strong and frequent rules between the bank’s web services to improve the recommender system in the Customer Relationship Management (CRM) section
+- Used data mining techniques, in particular, association rules to create and improve the recommendations for the banking industry
 
+**Data Analyst @ Traffic Department of Mazandaran Province (Jul 2016 - Nov 2016)**
+- Identified the factors affecting traffic violations using the Logistic Regression (LR) method, such as gender, age, education level, city, type of vehicle, driver’s experience certificate, and wearing glasses and evaluation of the model by the Hosmer and Lemeshow test and McFadden’s pseudo R2 index
+- Predicted the potentially offending drivers using a novel hybrid classification approach; the Multi-Layered Perceptron Neural Network trained by the Genetic Algorithm and Levenberg–Marquardt algorithm
 
-
-
-
-
-
-
-
-
+**Data AnalystData Analyst @ Saderat Bank of Iran, (Feb 2014 - May 2014)**
+- Predicted Customer Churn Using Machine Learning Techniques, in particular, Support Vector Machine (SVM), Naive Bayes, and Neural Networks
+- Predicted multi-level Customer Churn Using Neural Networks; identifying customers who are prone to churn before completely leaving the organization
+- Estimated the loss of Saderat Bank due to customer churn using supervised machine learning techniques and a proposed loss function
 
 ## Research and Publications
 
