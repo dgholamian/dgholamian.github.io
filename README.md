@@ -1,6 +1,13 @@
 # Data Scientist
+## About
+A seasoned Data Scientist with a rich academic background and extensive professional experience, I specialize in leveraging advanced analytical techniques and data-driven insights to drive meaningful business outcomes. My expertise spans a wide range of technical proficiencies, including Python (with libraries like TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib) and data visualization tools like Tableau. Proficient in SQL and version control with Git, I have a proven track record of implementing effective data solutions in various industries. At the Royan Institute, my data analysis contributed to saving $1 million, showcasing my ability to deliver significant financial impacts. My soft skills in problem-solving, effective communication, teamwork, and time management complement my technical abilities, making me a well-rounded professional. I am continually seeking opportunities to collaborate on projects that challenge my skills and contribute to meaningful advancements in data science.
 
-#### Technical Skills: Python, SQL
+#### Technical Skills: 
+- Python (TensorFlow, PyTorch, Keras, Scikit-Learn, Scipy, Pandas, NumPy, Matplotlib)
+- SQL
+- Data Visualization (Tableau)
+- Version Control (Git)
+
 
 
 ## Education
@@ -80,6 +87,11 @@ I have made contributions to multiple research projects and publications, primar
 - "Dynamic changes in CO2 emission performance of different types of Iranian fossil-fuel power plants" (Energy Economics) [Link](https://www.sciencedirect.com/science/article/pii/S0140988315002819)
 - "Assessing productivity changes using the bootstrapped Malmquist index: the case study of the Iranian construction industry" (International Conference on Industrial Engineering and Operations Management) [Link](https://www.ieomsociety.org/ieom2019/papers/99.pdf)
 
+## Soft Skills: 
+- Problem-Solving
+- Effective Communication
+- Teamwork
+- Time Management
 
 ## Contact
 
