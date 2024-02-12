@@ -46,12 +46,12 @@ A seasoned Data Scientist with a rich academic background and extensive professi
 - Created CNN and FFNN models using leave-one-subject-out validation for accurate human activity recognition from sensor data for new individuals.
 
 
-**Software DeveloperSoftware Developer at Algobot (Cryptocurrency software) (Apr-Aug 2022)**
+**Software Developer Software Developer at Algobot (Cryptocurrency software) (Apr-Aug 2022)**
 - Developed a scanner for the Cryptocurrency market to filter cryptos with high momentum
 - Developed a bot to draw static and dynamic supports and resistances automatically and predicting future prices
 - Examined various strategies with backtests and real-time tests to find a good trading strategy
 
-**Data ScientistData Scientist at Xlscout (Sep-Dec 2021)**
+**Data Scientist at Xlscout (Sep-Dec 2021)**
 - Found U.S. patents’ solutions and related sections in each patent using machine learning techniques.
 - Summarized the main idea for the solution of each patent using extractive and abstractive models such as Bert, Pegasus, and so on.
 
@@ -67,7 +67,7 @@ A seasoned Data Scientist with a rich academic background and extensive professi
 - Identified the factors affecting traffic violations using the Logistic Regression (LR) method, such as gender, age, education level, city, type of vehicle, driver’s experience certificate, and wearing glasses and evaluation of the model by the Hosmer and Lemeshow test and McFadden’s pseudo R2 index
 - Predicted the potentially offending drivers using a novel hybrid classification approach; the Multi-Layered Perceptron Neural Network trained by the Genetic Algorithm and Levenberg–Marquardt algorithm
 
-**Data AnalystData Analyst at Saderat Bank of Iran, (Feb 2014 - May 2014)**
+**Data Analyst at Saderat Bank of Iran, (Feb 2014 - May 2014)**
 - Predicted Customer Churn Using Machine Learning Techniques, in particular, Support Vector Machine (SVM), Naive Bayes, and Neural Networks
 - Predicted multi-level Customer Churn Using Neural Networks; identifying customers who are prone to churn before completely leaving the organization
 - Estimated the loss of Saderat Bank due to customer churn using supervised machine learning techniques and a proposed loss function
